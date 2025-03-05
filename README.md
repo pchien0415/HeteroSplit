@@ -1,5 +1,4 @@
 # D2D-Assisted Split Learning Approach for Model-Heterogeneous Federated Learning
-Code for the following paper:
 
 ## Environment Setup
 
@@ -8,7 +7,7 @@ Code for the following paper:
 * PyTorch 1.11.0
 
 ### Installing Dependencies
-use the provided environment file:
+Use the provided environment file:
 ```
 conda env create -f environment.yml
 ```
