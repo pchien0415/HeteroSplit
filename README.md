@@ -27,7 +27,7 @@ or using make to run
 make all
 ```
 
-### Parameters
+## Parameters
 All hyper-parameters are controlled from ``args.py``.
 
 
