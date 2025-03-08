@@ -20,7 +20,7 @@ conda env create -f environment.yml
 ## Training
 Run the training:
 ```
-python main.py --algo propose
+python main.py --algo propose --data cifar10
 ```
 or using make to run
 ```
