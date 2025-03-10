@@ -14,9 +14,6 @@ conda env create -f environment.yml
 
 **Note**: Ensure you install the CUDA version corresponding to your hardware.
 
-
-## Usage
-
 ## Training
 Run the training:
 ```
