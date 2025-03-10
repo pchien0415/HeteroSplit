@@ -12,7 +12,7 @@ Use the provided environment file:
 conda env create -f environment.yml
 ```
 
-**Note**: Ensure you install the CUDA version corresponding to your hardware (e.g., CUDA 11.6).
+**Note**: Ensure you install the CUDA version corresponding to your hardware.
 
 
 ## Usage
